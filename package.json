@@ -1,0 +1,36 @@
+{
+  "name": "llb-angularjs",
+  "version": "1.0.0",
+  "description": "a social contact demo write by angularjs and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flawless95/LL-angularjs.git"
+  },
+  "keywords": [
+    "refactor",
+    "angularjs",
+    "to",
+    "react"
+  ],
+  "author": "flawless959",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flawless95/LL-angularjs/issues"
+  },
+  "homepage": "https://github.com/flawless95/LL-angularjs#readme",
+  "dependencies": {
+    "angular": "1.5.8"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.0.4",
+    "llb-react": "^1.0.0",
+    "webpack": "^4.21.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9",
+    "webpack-merge": "^4.1.4"
+  }
+}
